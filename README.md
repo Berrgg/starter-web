@@ -5,6 +5,7 @@ This is a simpe web site project.
 Bla bla bla
 
 ##Purpose
+Bla purpose bla
 
 ##Deployment
 
