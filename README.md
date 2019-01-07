@@ -8,5 +8,7 @@ Bla bla bla
 Bla purpose bla
 
 ##Deployment
+Deployment bla bla
 
 ##How to contribute
+O yeah...
