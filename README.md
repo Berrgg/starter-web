@@ -12,3 +12,6 @@ Deployment bla bla
 
 ##How to contribute
 O yeah...
+
+##Copyright
+2019 Krzysztof Matyja
