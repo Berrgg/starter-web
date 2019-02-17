@@ -11,7 +11,7 @@ Bla purpose bla
 Deployment bla bla
 
 ##How to contribute
-O yeah...
+Please fork this repository and then issue Pull request for review.
 
 ##Copyright
 2019 Krzysztof Matyja
