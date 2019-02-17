@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Krzysztof Matyja	krzysztof.matyja@git.training
 
 # THANKS
 
