@@ -1,6 +1,6 @@
 #Starter Web Project
 This is a simpe web site project.
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from myfeature branchtoo.
 
 ##Introduction
 Bla bla bla
