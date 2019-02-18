@@ -1,5 +1,6 @@
 #Starter Web Project
 This is a simpe web site project.
+Adding a line for rebasing example.
 
 ##Introduction
 Bla bla bla
