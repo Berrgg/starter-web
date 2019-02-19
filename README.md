@@ -15,4 +15,4 @@ Deployment bla bla
 Please fork this repository and then issue Pull request for review.
 
 ##Copyright
-2019 Krzysztof Matyja
+2019 Krzysztof Matyja. All rights reserved
